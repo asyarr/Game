@@ -1,5 +1,6 @@
 # Game
-This is a typing game
+This is a typing game.
+
 You can play alone or with friends, it has a typing and a mathematic mode. It's very simple: a question will be asked and you need to answer it! 
 Your time will be counted so be fast!
 
